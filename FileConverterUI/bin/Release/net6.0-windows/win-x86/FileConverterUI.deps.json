@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/win-x86",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/win-x86": {
+      "FileConverterUI/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "27.2.1",
+          "Microsoft.Experimental.Collections": "1.0.6-e190117-3"
+        },
+        "runtime": {
+          "FileConverterUI.dll": {}
+        }
+      },
+      "CsvHelper/27.2.1": {
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "assemblyVersion": "27.0.0.0",
+            "fileVersion": "27.2.1.0"
+          }
+        }
+      },
+      "Microsoft.Experimental.Collections/1.0.6-e190117-3": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Experimental.Collections.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileConverterUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/27.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uS5ix5hL9gL5taiAG//CScyJa8Fn1ZOh3FDhDvf4laboESFs84mCNropfp7PIt8xCkyQofljFpqu1B5UnSXjyA==",
+      "path": "csvhelper/27.2.1",
+      "hashPath": "csvhelper.27.2.1.nupkg.sha512"
+    },
+    "Microsoft.Experimental.Collections/1.0.6-e190117-3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S2IfWAo5bnXSgpr8o0LR3aMqo7QD83VQUPbgta6aOYIBq8M85Hpk8hVUco22GFhSRuf4ZhP8jUs2wPlO0Dbdow==",
+      "path": "microsoft.experimental.collections/1.0.6-e190117-3",
+      "hashPath": "microsoft.experimental.collections.1.0.6-e190117-3.nupkg.sha512"
+    }
+  }
+}

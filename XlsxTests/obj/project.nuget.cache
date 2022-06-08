@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ussXbragrxXUKtnZASn1qOQSJuctardpgV1FgoxkLJ013fvLw3pSSJTEI6Qk/UNu+nocY+goYbzoAS+1MEnjrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ytro_\\source\\repos\\FileConverterUI\\XlsxTests\\XlsxTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ytro_\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDRnb7vKAu8yx9gGzm3l7A4NfExotiRepEW1MqlAUyHab+I19V7GR7/8pWY8XWhTh5EvAxv7uAuRn0DI1MgTDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ytro_\\source\\repos\\FileConverterUI\\FileConverterUI\\FileConverterUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ytro_\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\ytro_\\.nuget\\packages\\microsoft.experimental.collections\\1.0.6-e190117-3\\microsoft.experimental.collections.1.0.6-e190117-3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\ytro_\Desktop\FileConverterUI\FileConverterUI.exe
+C:\Users\ytro_\Desktop\FileConverterUI\FileConverterUI.dll
+C:\Users\ytro_\Desktop\FileConverterUI\FileConverterUI.deps.json
+C:\Users\ytro_\Desktop\FileConverterUI\FileConverterUI.runtimeconfig.json
+C:\Users\ytro_\Desktop\FileConverterUI\FileConverterUI.pdb
+C:\Users\ytro_\Desktop\FileConverterUI\CsvHelper.dll
+C:\Users\ytro_\Desktop\FileConverterUI\Microsoft.Experimental.Collections.dll

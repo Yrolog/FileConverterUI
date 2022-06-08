@@ -1,0 +1,17 @@
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\bin\Debug\net6.0\XlsxTests.exe
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\bin\Debug\net6.0\XlsxTests.deps.json
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\bin\Debug\net6.0\XlsxTests.runtimeconfig.json
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\bin\Debug\net6.0\XlsxTests.dll
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\bin\Debug\net6.0\XlsxTests.pdb
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\XlsxTests.csproj.AssemblyReference.cache
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\XlsxTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\XlsxTests.AssemblyInfoInputs.cache
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\XlsxTests.AssemblyInfo.cs
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\XlsxTests.csproj.CoreCompileInputs.cache
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\XlsxTests.dll
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\refint\XlsxTests.dll
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\XlsxTests.pdb
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\XlsxTests.genruntimeconfig.cache
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\ref\XlsxTests.dll
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\ytro_\source\repos\FileConverterUI\XlsxTests\obj\Debug\net6.0\XlsxTests.csproj.CopyComplete
