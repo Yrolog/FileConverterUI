@@ -12,12 +12,11 @@ namespace FileConverterUI
 {
     internal static class NewTablesOperations
     {
-        public static DataTable GetTable(string filePath)  //С помощью библиотеке получает DataTable из .csv файла
+        public static DataTable GetTable(string filePath)  //С помощью библиотеки получает DataTable из .csv файла
         {
             using (var reader = new StreamReader(filePath))
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
-                // Do any configuration to `CsvReader` before creating CsvDataReader.
                 using (var dr = new CsvDataReader(csv))
                 {
                     var dt = new DataTable();
